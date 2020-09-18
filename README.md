@@ -6,6 +6,8 @@ Speed Harmonization: Speed harmonization, as a traffic control strategy, adjusts
 
 Merge Coordination: Merge coordination aims to minimize the negative impacts of the merging process on the target lane. The shockwave magnitude and duration resulted from a merging maneuver depends on the lane-changing trajectory, traffic conditions in the origin and target lanes, and the response of the vehicles in the target lane to lane-changing vehicle. The source code provided here contains the details of implementing the merge coodination application.
 
+Tags: CAV, microsimulation, traffic simulation, connected automated vehicles, cooperative automated vehicles
+
 ## Contact Information
 
 Contact Name: Hani S. Mahmassani
@@ -17,9 +19,9 @@ Status: this project is in the release phase.
 
 There won't be any further updates on this project.
 
-Retention: this project will remain publicly accessible for a minimum of five years (until at least 08/03/2025).
+Retention: this project will remain publicly accessible for a minimum of five years (until at least 06/15/2025).
 
-#### Release 1.0.0 (August 3, 2020)
+#### Release 1.0.0 (June 25, 2020)
 - Initial release
 
 ## Getting Started
